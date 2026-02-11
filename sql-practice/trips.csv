@@ -1,0 +1,5 @@
+pickup_datetime,dropoff_datetime,trip_distance,total_amount,tip_amount,pu_zone,do_zone
+2025-11-01 10:00,2025-11-01 10:15,0.5,10,2,ZoneA,ZoneB
+2025-11-01 11:00,2025-11-01 11:25,5.2,20,3,ZoneC,ZoneD
+2025-11-02 09:30,2025-11-02 09:50,1.0,12,2,ZoneA,ZoneC
+2025-11-02 12:00,2025-11-02 12:45,15,50,8,ZoneB,ZoneD
